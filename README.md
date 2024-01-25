@@ -2,5 +2,6 @@
 
 _made by Gregorius Abiyoso Kamandanu_ 
 
-This is the result 
-<img src='./result.mp4' width='400' height='600'>
+## This is the result 
+<!-- <img src='./result.mp4' width='400' height='600'> -->
+![til](./result.mp4)
